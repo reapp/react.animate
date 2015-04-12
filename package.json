@@ -1,7 +1,7 @@
 {
-  "name": "react-animate",
+  "name": "react-animate-state",
   "main": "index.js",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/reapp/react-animate",
   "description": "A small mixin that adds state animation to React components.",
   "keywords": [
